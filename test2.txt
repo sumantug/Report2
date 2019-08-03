@@ -1,13 +1,11 @@
- Volume in drive C is OS
- Volume Serial Number is A02E-83F0
-
- Directory of C:\Users\sumantu\Desktop\MyProject
-
-03-08-2019  05:45    <DIR>          .
-03-08-2019  05:45    <DIR>          ..
-03-08-2019  05:44    <DIR>          .git
-02-06-2019  05:28                35 index.html
-02-06-2019  05:28                10 test1.txt
-03-08-2019  05:45                 0 test2.txt
-               3 File(s)             45 bytes
-               3 Dir(s)  852,126,932,992 bytes free
+git init-step1 to initilize your project and track changes
+git status-to check if any changes in files
+dir>test2.txt will create a new file test2.txt
+git add test2.txt  will add the test2 file but not yet committed
+git status will display the above file test2.txt to track this file
+git commit -m "Test2.txt file committed"  
+make changes to file test2.txt and click on save
+dir>index.html
+git status will display index.html and test2 file as changes are made
+(git add *.* will add all the files wildcard characters)
+git add .  will add everything which is not added
