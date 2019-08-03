@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is A02E-83F0
+
+ Directory of C:\Users\sumantu\Desktop\MyProject
+
+03-08-2019  05:45    <DIR>          .
+03-08-2019  05:45    <DIR>          ..
+03-08-2019  05:44    <DIR>          .git
+02-06-2019  05:28                35 index.html
+02-06-2019  05:28                10 test1.txt
+03-08-2019  05:45                 0 test2.txt
+               3 File(s)             45 bytes
+               3 Dir(s)  852,126,932,992 bytes free
